@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GOM_GND_1 Pin=*-H2_29
+Removed Pin From Net: NetName=V_BAT_1 Pin=*-H2_46
+Removed Member From Class: ClassName=TopV4 Member=*
+Added Component: Designator=PC-104_DCDC(PC-104FOOTPRINT DCDC)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GOM_GND_1 Pin=PC-104_DCDC-H2_29
+Added Member To Class: ClassName=TopV4 Member=Component PC-104_DCDC PC-104_DCDC Board
+Added Room: Name=TopV4

@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=GOM_GND_1 Pin=*-H2_29
+Added Pin To Net: NetName=V_BAT_1 Pin=*-H2_46
+Added Member To Class: ClassName=TopV4 Member=Component * PC-104_DCDC Board

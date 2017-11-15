@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=24V_1 Pin=7Vto24V_1-3
+Added Pin To Net: NetName=24V_1 Pin=7Vto24V_1-3
+Added Pin To Net: NetName=24V_1 Pin=Header_1-1
+Added Net: Name=24V_1
+Added Pin To Net: NetName=24V_2 Pin=7Vto24V_2-3
+Added Pin To Net: NetName=24V_2 Pin=7Vto24V_2-3
+Added Pin To Net: NetName=24V_2 Pin=Header_2-1
+Added Net: Name=24V_2
+Added Room: Name=TopV4

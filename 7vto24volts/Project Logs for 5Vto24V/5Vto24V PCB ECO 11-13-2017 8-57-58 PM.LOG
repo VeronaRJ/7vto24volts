@@ -1,0 +1,16 @@
+Added Component: Designator=Header_1(Header)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Header_2(Header)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GOM_GND_1 Pin=Header_1-2
+Added Pin To Net: NetName=GOM_GND_1 Pin=Header_2-2
+Added Pin To Net: NetName=24V Pin=7Vto24V_1-3
+Added Pin To Net: NetName=24V Pin=7Vto24V_1-3
+Added Pin To Net: NetName=24V Pin=7Vto24V_2-3
+Added Pin To Net: NetName=24V Pin=7Vto24V_2-3
+Added Pin To Net: NetName=24V Pin=Header_1-1
+Added Pin To Net: NetName=24V Pin=Header_2-1
+Added Net: Name=24V
+Added Member To Class: ClassName=TopV4 Member=Component Header_1 HighVoltageHeader
+Added Member To Class: ClassName=TopV4 Member=Component Header_2 HighVoltageHeader
+Added Room: Name=TopV4
