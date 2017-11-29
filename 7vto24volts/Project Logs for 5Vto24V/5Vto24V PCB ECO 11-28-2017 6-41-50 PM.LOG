@@ -1,0 +1,11 @@
+Added Component: Designator=Header-4(Header)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Header-5(Header)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=24V_2 Pin=Header-4-1
+Added Pin To Net: NetName=GOM_GND_1 Pin=Header-4-2
+Added Pin To Net: NetName=24V_2 Pin=Header-5-1
+Added Pin To Net: NetName=GOM_GND_1 Pin=Header-5-2
+Added Member To Class: ClassName=TopV4 Member=Component Header-4 HighVoltageHeader
+Added Member To Class: ClassName=TopV4 Member=Component Header-5 HighVoltageHeader
+Added Room: Name=TopV4
