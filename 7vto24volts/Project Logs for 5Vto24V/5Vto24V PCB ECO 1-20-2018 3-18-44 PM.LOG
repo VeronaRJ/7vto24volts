@@ -1,0 +1,14 @@
+Added Component: Designator=7Vto24V Spike & Hold(7Vto24V)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GOM_GND_1 Pin=7Vto24V Spike & Hold-1
+Added Pin To Net: NetName=GOM_GND_1 Pin=7Vto24V Spike & Hold-1
+Added Pin To Net: NetName=V_BAT_1 Pin=7Vto24V Spike & Hold-2
+Added Pin To Net: NetName=V_BAT_1 Pin=7Vto24V Spike & Hold-2
+Added Pin To Net: NetName=24V_2 Pin=7Vto24V Spike & Hold-3
+Added Pin To Net: NetName=24V_2 Pin=7Vto24V Spike & Hold-3
+Added Pin To Net: NetName=GOM_GND_1 Pin=7Vto24V Spike & Hold-4
+Added Pin To Net: NetName=GOM_GND_1 Pin=7Vto24V Spike & Hold-4
+Added Pin To Net: NetName=ON S&H Pin=7Vto24V Spike & Hold-5
+Added Pin To Net: NetName=EN S&H Pin=7Vto24V Spike & Hold-6
+Added Pin To Net: NetName=OFF S&H Pin=7Vto24V Spike & Hold-7
+Added Member To Class: ClassName=TopV4 Member=Component 7Vto24V Spike & Hold 7Vto24V

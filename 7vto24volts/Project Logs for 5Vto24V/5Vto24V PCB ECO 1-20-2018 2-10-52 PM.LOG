@@ -1,0 +1,51 @@
+Change Component Designator: OldDesignator=7Vto24V_1 NewDesignator=7Vto24V Motors
+Change Component Designator: OldDesignator=7Vto24V_2 NewDesignator=7Vto24V Spike & Hold
+Change Component Designator: OldDesignator=ADCS-Motor-1 NewDesignator=ADCS Motors
+Change Component Designator: OldDesignator=Docking NewDesignator=Docking Motor
+Change Component Designator: OldDesignator=Spike-Hold NewDesignator=Spike & Hold
+Added Component: Designator=2:1 Mux(2:1 Mux)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C1(0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IPC"; Value = "1005 [0402]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEITA"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.kemet.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.kemet.com/kemet/web/homepage/kechome.nsf/vapubfilesname/F3102TA.pdf/$file/F3102TA.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetDocument"; Value = "Mar-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "19-Mar-2004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Silkscreen size reduced."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = "Footprint corresponds to dimensions for bulk cassette packaging. This case size has tightened tolerances."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDocument"; Value = "Mar-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GOM_GND_1 Pin=2:1 Mux-3
+Added Pin To Net: NetName=GOM_GND_1 Pin=C1-2
+Added Pin To Net: NetName=3V3_3 Pin=2:1 Mux-8
+Added Pin To Net: NetName=3V3_3 Pin=C1-1
+Added Pin To Net: NetName=3V3_3 Pin=PC104-H1_52
+Added Net: Name=3V3_3
+Added Pin To Net: NetName=EN MTR Pin=2:1 Mux-10
+Added Net: Name=EN MTR
+Added Pin To Net: NetName=EN S&H Pin=2:1 Mux-6
+Added Net: Name=EN S&H
+Added Pin To Net: NetName=Motor Enable Pin=2:1 Mux-1
+Added Pin To Net: NetName=Motor Enable Pin=PC104-H1_35
+Added Net: Name=Motor Enable
+Added Pin To Net: NetName=OFF MTR Pin=2:1 Mux-9
+Added Net: Name=OFF MTR
+Added Pin To Net: NetName=OFF S&H Pin=2:1 Mux-7
+Added Net: Name=OFF S&H
+Added Pin To Net: NetName=ON MTR Pin=2:1 Mux-2
+Added Net: Name=ON MTR
+Added Pin To Net: NetName=ON S&H Pin=2:1 Mux-4
+Added Net: Name=ON S&H
+Added Pin To Net: NetName=Spike & Hold Enable Pin=2:1 Mux-5
+Added Pin To Net: NetName=Spike & Hold Enable Pin=PC104-H1_37
+Added Net: Name=Spike & Hold Enable
+Added Member To Class: ClassName=TopV4 Member=Component 2:1 Mux 2:1 Multiplexer TS5A23157DGSR
+Added Member To Class: ClassName=TopV4 Member=Component C1 C0402
+Added Room: Name=TopV4

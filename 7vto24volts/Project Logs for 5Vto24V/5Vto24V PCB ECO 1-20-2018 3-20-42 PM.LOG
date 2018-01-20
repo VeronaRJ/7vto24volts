@@ -1,0 +1,14 @@
+Added Component: Designator=7Vto24V Motors(7Vto24V)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GOM_GND_1 Pin=7Vto24V Motors-1
+Added Pin To Net: NetName=GOM_GND_1 Pin=7Vto24V Motors-1
+Added Pin To Net: NetName=V_BAT_1 Pin=7Vto24V Motors-2
+Added Pin To Net: NetName=V_BAT_1 Pin=7Vto24V Motors-2
+Added Pin To Net: NetName=24V_1 Pin=7Vto24V Motors-3
+Added Pin To Net: NetName=24V_1 Pin=7Vto24V Motors-3
+Added Pin To Net: NetName=GOM_GND_1 Pin=7Vto24V Motors-4
+Added Pin To Net: NetName=GOM_GND_1 Pin=7Vto24V Motors-4
+Added Pin To Net: NetName=ON MTR Pin=7Vto24V Motors-5
+Added Pin To Net: NetName=EN MTR Pin=7Vto24V Motors-6
+Added Pin To Net: NetName=OFF MTR Pin=7Vto24V Motors-7
+Added Member To Class: ClassName=TopV4 Member=Component 7Vto24V Motors 7Vto24V
